@@ -2,7 +2,7 @@
 
 ## Projects in `Python`
 - [Deep Learning with PyTorch](https://github.com/phlam1512/Deep-Learning-with-PyTorch)
-- [Additional Game](https://github.com/phlam1512/Addition-Game)
+- [Addition Game](https://github.com/phlam1512/Addition-Game)
 
 ## Projects in `R`
 - [Machine Learning with R](https://github.com/phlam1512/Machine-Learning-with-R)
