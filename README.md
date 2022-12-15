@@ -2,6 +2,7 @@
 
 ## Projects in `Python`
 - [Deep Learning with PyTorch](https://github.com/phlam1512/Deep-Learning-with-PyTorch)
+- [Min-HeapList](https://github.com/phlam1512/Minheap-list)
 - [Addition Game](https://github.com/phlam1512/Addition-Game)
 
 ## Projects in `R`
