@@ -3,6 +3,7 @@
 ## Projects in `Python`
 - [Colourisation of Greyscale Images with Deep Learning (Autoencoders)](https://github.com/phlam1512/Deep-Learning-with-PyTorch)
 - [Solving the Tube Challenge with Reinforcement Learning](https://github.com/phlam1512/Reinforcement-Learning-TubeMap)
+- [Predicition/Classification with Graph Neural Networks](https://github.com/phlam1512/GNN)
 - [Min-HeapList](https://github.com/phlam1512/Minheap-list)
 - [Addition Game](https://github.com/phlam1512/Addition-Game)
 
